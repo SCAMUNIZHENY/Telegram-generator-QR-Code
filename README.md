@@ -1,2 +1,2 @@
-# Telegram-template-bot
-Initial Bot Telegram Template
+# Telegram-generator-QR-Code
+Telegram bot that generates qr codes from messages
